@@ -11,4 +11,8 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("this is my first project!");
     }
+    public void test(){
+    	System.out.println("test");
+    }
 }
+
