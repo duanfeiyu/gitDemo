@@ -20,6 +20,7 @@ public class App
     	System.out.println("test4");
     	System.out.println("release1");
     	System.out.println("feature1");
+    	System.out.println("depoly");
     }
 }
 
