@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("this is my first project!");
+        System.out.println("modify git project!");
     }
     public void test(){
     	System.out.println("test");
