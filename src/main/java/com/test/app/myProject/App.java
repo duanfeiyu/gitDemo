@@ -12,6 +12,9 @@ public class App
         System.out.println("this is my first project!");
         System.out.println("modify git project!");
     }
+    public void talk(){
+    	System.out.println("say...");
+    }
     public void test(){
     	System.out.println("test");
     }
